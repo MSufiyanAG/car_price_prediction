@@ -9,5 +9,5 @@ scikit-learn==0.23.1
 scipy==1.5.2
 seaborn==0.10.1
 sklearn==0.0
-streamlit==0.64.0
+streamlit==1.11.1
 Pillow >= 2.1.0
